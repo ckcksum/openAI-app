@@ -1,5 +1,6 @@
 # openAI-GUI
 
+## Terminal Commands (Before the GUI is built)
 ```shell
 pip install virtualenv 
 python -m venv myenv  
