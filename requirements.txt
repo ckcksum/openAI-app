@@ -1,0 +1,10 @@
+# pip install openai
+openai
+
+
+# pip install pyqt6
+pyqt6
+
+
+# pip install python-dotenv
+dotenv
